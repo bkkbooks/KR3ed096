@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed096_000.yaml, hash: 'sha256:ee952ddfc10a645cd082407b5071bacac6b07dc7c8d1ffbb9a7b1edad4a9f66d'}
+  - {seq: 0, filename: KR3ed096_000.yaml, hash: 'sha256:d5b50f7e8889ee4291e6014d3b72556372db18c28fbcf4cee89af01009bae2ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed096_000.markers.yaml, hash: 'sha256:745834c66064764715a4ce4369b3a06466b34940084941fc9bee518dd82771de'}
+  - {seq: 0, role: markers, filename: assets/KR3ed096_000.markers.yaml, hash: 'sha256:c34c3a791304176ad9d8a384fab67b698d868154a84e20e065ec93655f7b223f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,7 +91,4 @@ table_of_contents:
   label: 題類聚方後
   type: section
   level: 1
-hash: sha256:7b5781100963e7f76902d6ab698439ccbb3ca848a5c28928dbc2e3ca26f63143
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:44fa6402f2f08e87aa57c8181faa89d93bfcb37d6821780309625b7f30434db8
