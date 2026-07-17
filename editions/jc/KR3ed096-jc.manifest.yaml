@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed096_000-jc.yaml, hash: 'sha256:d5b50f7e8889ee4291e6014d3b72556372db18c28fbcf4cee89af01009bae2ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed096_000-jc.markers.yaml, hash: 'sha256:a15dd85200ae96d78e13b53c9aa7381590bc5cedf49f2d780e4ceee4e0ba06c3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed096_000-jc.markers.yaml, hash: 'sha256:e5fcec2427c87a3c103290b266e28b93fb86febe327f11fc82549a007a9b14de'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,4 +91,4 @@ table_of_contents:
   label: 題類聚方後
   type: section
   level: 1
-hash: sha256:f7b29de8b0e15ff440470775adc19afe410a54677aabf8c432ad47f62b7d6013
+hash: sha256:81fad5c7d208cb94e5396f919741ecbfffb56ff9ca3b9b7719e81c393ee45b54
